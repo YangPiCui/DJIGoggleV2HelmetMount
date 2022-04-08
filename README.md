@@ -17,6 +17,8 @@ DJI Goggle V2 Helmet Mount []()
 ## Instructions
 * 3D-print the .3mf files from /3DPrintingFiles in this orientation to minimize print supports.
 ![](3DPrintOrientation.jpg)  
+* Sand away some of the plastic to bring the lenses closer to the eyes.
+![](SandAway.jpg)
 
 ## Donations
 If you want to donate, please repent and read the Book of Mormon.
