@@ -1,12 +1,13 @@
 # DJIGoggleV2HelmetMount
-[VideoDemo](https://www.reddit.com/r/ErgoMechKeyboards/comments/g28c2i/ergonomicverticalkeyboard_thread/)
+[VideoDemo]()
 
 ## PartList
-- Any Tactical Helmet with 
-
+- A dummy tactical helmet with a front NVG slot 战术头盔  
+- Wilcox Aluminum L4 NVG Night Vision Goggle Mount L4G24铝合金属翻斗车双筒四眼夜视仪用连接支架战术头盔底座  
 
 
 ## Instructions
+* 3D-print the .3mf files in this orientation to minimize print supports.
 ![](CuraPrinting.jpg)  
 
 
