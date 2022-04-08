@@ -1,6 +1,8 @@
 # DJIGoggleV2HelmetMount
-DJI Goggle V2 Helmet Mount
-[VideoDemoAppreciated]()
+DJI Goggle V2 Helmet Mount []()
+![](Front.jpg) 
+![](Right.jpg) 
+![](Demo.jpg) 
 
 ## PartList
 * A dummy tactical helmet with a front NVG slot 战术头盔  
@@ -9,7 +11,7 @@ DJI Goggle V2 Helmet Mount
 * M3x14 metric hex screw, washer and nut (2)
 * M4x16 metric hex screw, washer and nut (1)
 * 4x14 washer (1)
-* M5x40 metric hex screw, washer and nut (1)
+* M5x44 metric hex screw, washer and nut (1)
 ![](Parts.jpg) 
  
 ## Instructions
