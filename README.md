@@ -1,5 +1,6 @@
 # DJIGoggleV2HelmetMount
-[VideoDemo]()
+DJI Goggle V2 Helmet Mount
+[VideoDemoAppreciated]()
 
 ## PartList
 * A dummy tactical helmet with a front NVG slot 战术头盔  
