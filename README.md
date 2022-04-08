@@ -1,15 +1,13 @@
 # DJIGoggleV2HelmetMount
+[VideoDemo](https://www.reddit.com/r/ErgoMechKeyboards/comments/g28c2i/ergonomicverticalkeyboard_thread/)
 
-## Part List
+## PartList
 - Any Tactical Helmet with 
 
 
+
+## Instructions
 ![](CuraPrinting.jpg)  
-
-
-
-## External Resources
-[Main Reddit Thread](https://www.reddit.com/r/ErgoMechKeyboards/comments/g28c2i/ergonomicverticalkeyboard_thread/) | [Old](https://www.reddit.com/r/ErgoMechKeyboards/comments/fvxuw1/need_help_combining_all_of_the_good_features_from/) | [Older](https://www.reddit.com/r/MechanicalKeyboards/comments/fumlvb/possible_to_absorb_and_combine_all_of_the_good/)  
 
 
 ## Donations
